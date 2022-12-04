@@ -7,5 +7,3 @@ select data_inicio, count(*)
 from cliente_data
 group by data_inicio
 order by data_inicio
-
-
